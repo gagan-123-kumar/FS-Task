@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #a5a4a4;
+}
+th, td {
+  border: 2px solid #e9e6e6;
+  padding: 12px;
+  text-align: center;
+}
+th {
+ background-color: #c8c77e;   
+color: white;
+}
+td {
+background-color: #f9f9f9;
+}
+a{
+ text-decoration: none;
+ color: black;
+}
+td:hover{
+ background-color:#d1e0e0 ;
+}
+ 
